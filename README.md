@@ -7,6 +7,7 @@ It's G Return, but you can call me "Lin" or "Lindrew". It's not my real name tho
   <li>How to talk to cats.</li>
   <li>How cheeses are made.</li>
   </ul>
+  Will add more stuffs soon...
 <!--
 **GReturn/GReturn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
