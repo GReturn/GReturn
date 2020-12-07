@@ -3,7 +3,7 @@ It's G Return, but you can call me "Lin" or "Lindrew". It's not my real name tho
 
 🌱 I’m currently learning:
   <ul>
-  <li>How to code in C#. <br><img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=blueviolet&style=flat&logo=appveyor"></li>
+  <li>How to code in <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=blueviolet&style=flat&logo=appveyor"></li>
   <li>How to talk to cats.</li>
   <li>How cheeses are made.</li>
   </ul>
