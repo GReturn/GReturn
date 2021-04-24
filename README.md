@@ -14,7 +14,7 @@ It's G Return, but you can call me "Lin" or "Lindrew". It's not my real name tho
 ## 🧰 Tools and Languages:
   
   - <img alt="C-Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=blueviolet&style=flat&logo=appveyor">
-  - <img alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/kotlin.png">
+  - <img alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
   - Visual Studio Code
   - IntelliJ IDEA
   
