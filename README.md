@@ -8,7 +8,7 @@ Hello, I'm G Return, but you can call me "Lin" or "Lindrew". It's not my real na
 ---
 ## Get To Know Me!
 ### 🌱 2021 Goals:
-  - [ ] Make a habit on making 1 contribution/day in Github.
+  - [ ] Make a habit on making 5 contribution/week in Github.
   - [ ] Learn about the Object-Oriented Programming paradigm.
   - [ ] Learn how to talk to cats.
   - [ ] Find a secondary PC to install a Linux distro and learn about how Linux will benefit me long-term.
