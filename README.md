@@ -1,5 +1,5 @@
 # <img width="26px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> Meet G Return // Lin 🦊
-It's G Return, but you can call me "Lin" or "Lindrew". It's not my real name though, so you don't have to bother finding me in Facebook. I like cheese. I've started programming not too long ago. I like cheese. I am still new to this working environment and I wish to balance my programming hobby and school, but I'm still having a hard time sorting it out. I like cheese.
+Heyyo! You can call me "Lin" or "Lindrew". It's not my real name though, so you don't have to bother finding me in Facebook. I like cheese. I've started programming not too long ago. I like cheese. I am still new to this working environment and I wish to balance my programming hobby and school, but I'm still having a hard time sorting it out. I like cheese.
 
 ---
 
