@@ -35,7 +35,7 @@ Hello, I'm G Return, but you can call me "Lin" or "Lindrew". It's not my real na
   - Other than computers, I also like Physics, Chemistry, and Astronomy!
   - I have a love-hate relationship with Mathematics
   - I love teaching!
-  - In love with K 💛 (inserting this; she's not gonna see it anyway.)
+  - In love with K 💛 She hates me tho... (inserting this; she's not gonna see it anyway.)
   
 ---
   
