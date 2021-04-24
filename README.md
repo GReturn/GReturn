@@ -16,14 +16,12 @@ It's G Return, but you can call me "Lin" or "Lindrew". It's not my real name tho
   <img alt="C-Sharp" align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
   <img alt="Kotlin" align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
   <img alt="Arduino" align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
-  <img alt="Visual Studio Code" align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  
-  <br>
+  <img alt="Visual Studio Code" align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><br/>
   *I am still in the development and learning stage.*
   
 ---
   
-  <i><b>Will add more stuffs soon...</b></i>
+  ***Will add more stuffs soon...***
 <!--
 **GReturn/GReturn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
