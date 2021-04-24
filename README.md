@@ -1,14 +1,14 @@
-# Heyyo! 👋 
+# Meet G Return // Lin 🦊
 It's G Return, but you can call me "Lin" or "Lindrew". It's not my real name though, so you don't have to bother finding me in Facebook. I like cheese. I've started programming not too long ago. I like cheese. I am still new to this working environment and I wish to balance my programming hobby and school, but I'm still having a hard time sorting it out. I like cheese.
 
 ---
 
 ## 🌱 2021 Goals:
-  - [] Make a habit on making 1 commit/day in Github.
-  - [] Learn about the Object-Oriented Programming paradigm.
-  - [] Learn how to talk to cats.
-  - [] Find a secondary PC to install a Linux distro and learn about how Linux will benefit me long-term.
-  - [] Learn more about Android App development and build a personal app (*still thinking about it*)
+  - [ ] Make a habit on making 1 commit/day in Github.
+  - [ ] Learn about the Object-Oriented Programming paradigm.
+  - [ ] Learn how to talk to cats.
+  - [ ] Find a secondary PC to install a Linux distro and learn about how Linux will benefit me long-term.
+  - [ ] Learn more about Android App development and build a personal app (*still thinking about it*)
 
 ## 🧰 Tools and Languages:
   
