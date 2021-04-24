@@ -3,13 +3,24 @@ It's G Return, but you can call me "Lin" or "Lindrew". It's not my real name tho
 
 ---
 
-### 🌱 I’m currently learning:
-  - <img alt="C-Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=blueviolet&style=flat&logo=appveyor">
-  - How to talk to cats.
-  - How cheeses are made.
-  &nbsp;&nbsp;&nbsp;<i><del>Carlo</del></i>
+## 🌱 2021 Goals:
+  - [] Make a habit on making 1 commit/day in Github.
+  - [] Learn about the Object-Oriented Programming paradigm.
+  - [] Learn how to talk to cats.
+  - [] Find a secondary PC to install a Linux distro and learn about how Linux will benefit me long-term.
+  - [] Learn more about Android App development and build a personal app (*still thinking about it*)
   
-  ---
+---
+
+## 🧰 Tools and Languages:
+  
+  - <img alt="C-Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=blueviolet&style=flat&logo=appveyor">
+  - Kotlin
+  - Visual Studio Code
+  - IntelliJ IDEA
+  
+  *I am still in the development and learning stage.*
+  
   
   <i><b>Will add more stuffs soon...</b></i>
 <!--
