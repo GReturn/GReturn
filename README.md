@@ -39,7 +39,7 @@ Hello, I'm G Return, but you can call me "Lin" or "Lindrew". It's not my real na
   
 ---
   
-  ***Will add more stuffs soon...***
+  ***Will add more stuff soon...***
 <!--
 **GReturn/GReturn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
