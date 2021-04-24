@@ -9,8 +9,6 @@ It's G Return, but you can call me "Lin" or "Lindrew". It's not my real name tho
   - [] Learn how to talk to cats.
   - [] Find a secondary PC to install a Linux distro and learn about how Linux will benefit me long-term.
   - [] Learn more about Android App development and build a personal app (*still thinking about it*)
-  
----
 
 ## 🧰 Tools and Languages:
   
@@ -21,6 +19,7 @@ It's G Return, but you can call me "Lin" or "Lindrew". It's not my real name tho
   
   *I am still in the development and learning stage.*
   
+---
   
   <i><b>Will add more stuffs soon...</b></i>
 <!--
