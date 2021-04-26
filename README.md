@@ -16,7 +16,7 @@ Discord: `Linnn#0365`
   - [ ] Learn more about Android App development and build a personal app (*still thinking about it*).
   - [ ] Learn French because why not.
 
-### 🧰 Tools and Languages:
+### 🧰 Tools Of The Trade:
   
 *I am still in the development and learning stage.*
 
