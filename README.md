@@ -36,7 +36,6 @@ Discord: `Linnn#0365`
   - Average enjoyer of r/me_irl
   - Other than computers, I also like Physics, Chemistry, and Astronomy!
   - I have a love-hate relationship with Mathematics
-  - I love teaching topics related to my passion!
   - In love with K 💛 She hates me tho... (inserting this; she's not gonna see it anyway.)
   
 ---
