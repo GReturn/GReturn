@@ -15,7 +15,7 @@ Discord: `Linnn#0365`
   - [ ] Find a secondary PC to install a Linux distro and learn about how Linux will benefit me long-term.
   - [ ] Learn more about Android App development and build a personal app (*still thinking about it*).
   - [ ] Learn French because why not.
-  - [ ] Contribute to open-source.
+  - [ ] Contribute to open-source, at least 2 repositories.
 
 ### 🧰 Tools Of The Trade:
   
