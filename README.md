@@ -38,7 +38,7 @@ Discord: `Linnn#0365`
   - I have a love-hate relationship with Mathematics
   - In love with K 💛 She hates me tho... (inserting this; she's not gonna see it anyway.)
   
- ## 💌 Note:
+ ### 💌 Note:
   
   The [Facial-Detection-via-OpenCV][face-opencv] is not a project that I am proud of creating. I simply used resources from websites and YouTube, and I feel miserable displaying it in here. However, I will not be taking it down since I want my future self to think that I was miserable. That feeling of misery will be a reminder to my future self that I truly strived hard to become a person he would be in the future. I just hope the person he became is a person he can be proud of.
   
