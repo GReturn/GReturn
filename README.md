@@ -30,6 +30,18 @@ Discord: `Linnn#0365`
   
  <br />
  
+ ### 🕓 Schedule:
+ - 🔴 = TODO, UNDONE, XXX - Adding comments for future Lin to make revisions and whatnot.
+ - 🟠 = Exploring Github, Twitter, YouTube, etc. for new knowledge and ideas.
+ - 🟡 = Code Review
+ - 🟢 = Coding/Researching/Programming
+ - 🔵 = Appreciate/Improve Github account
+ - 🟣 = Free time
+ 
+| MONDAY  | TUESDAY     | WEDNESDAY     |   THURSDAY    | FRIDAY    | SATURDAY  | SUNDAY  |
+|:--:     |:--:         |:--:           |:--:           |:--:       |:--:       |:--:     |   
+| 🔴🟠🟢 | 🔴🟠🟢🔵  | 🔴🟢🔵      |🔴🟢🔵🟡     |🔴🔵🟡    |🔴🟡       |  🟣    |
+ 
  ### ⚡ Fun Facts:
   - I like cheese!
   - I love cats!
