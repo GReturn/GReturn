@@ -38,7 +38,7 @@ Discord: `Linnn#0365`
  - 🔵 = Appreciate/Improve Github account
  - 🟣 = Free time
  
-| MON | TUES  | WED | THURS | FRI | SAT | SUN  |
+|M|T|W|T| F|S|S|
 |:--: |:--:   |:--: |:--:   |:--: |:--: |:--:  |   
 | 🔴  | 🔴   | 🔴  |🔴    |🔴  |🔴  |  🟣   |
 | 🟠  | 🟠   | 🟢  |🟢    |🔵  |🟡  |      |
