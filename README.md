@@ -38,9 +38,12 @@ Discord: `Linnn#0365`
  - 🔵 = Appreciate/Improve Github account
  - 🟣 = Free time
  
-| MONDAY  | TUESDAY     | WEDNESDAY     |   THURSDAY    | FRIDAY    | SATURDAY  | SUNDAY  |
-|:--:     |:--:         |:--:           |:--:           |:--:       |:--:       |:--:     |   
-| 🔴🟠🟢 | 🔴🟠🟢🔵  | 🔴🟢🔵      |🔴🟢🔵🟡     |🔴🔵🟡    |🔴🟡       |  🟣    |
+| MON | TUES  | WED | THURS | FRI | SAT | SUN  |
+|:--: |:--:   |:--: |:--:   |:--: |:--: |:--:  |   
+| 🔴  | 🔴   | 🔴  |🔴    |🔴  |🔴  |  🟣   |
+| 🟠  | 🟠   | 🟢  |🟢    |🔵  |🟡  |      |
+| 🟢  | 🟢   | 🔵  |🔵    |🟡  |     |      |
+|     | 🔵   |      |🟡     |     |    |      |
  
  ### ⚡ Fun Facts:
   - I like cheese!
