@@ -11,7 +11,7 @@ Discord: `Linnn#0365`
 ### 🌱 2021 Goals:
   - [ ] Make a habit on making 5 contribution/week in Github.
   - [ ] Learn about the Object-Oriented Programming paradigm.
-  - [ ] Learn how to talk to cats.
+  - [x] Learn how to talk to cats.
   - [ ] Find a secondary PC to install a Linux distro and learn about how Linux will benefit me long-term.
   - [ ] Learn more about Android App development and build a personal app (*still thinking about it*).
   - [ ] Learn French because why not.
