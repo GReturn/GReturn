@@ -65,17 +65,14 @@ Discord: `Linnn#0365`
 
   <img align="left" alt="Lin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GReturn&show_icons=true&hide_border=true&theme=slateorange" />
   <img align="left" alt="Lin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GReturn&show_icons=true&hide_border=true&theme=slateorange" />
-
+  
+  <br/><br/><br/><br/><br/><br/><br/><br/>
 </details>
 
 <details>
   <summary>Lindrew's Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-
-
-
-
 <!--END_SECTION:activity-->
 
 </details>
