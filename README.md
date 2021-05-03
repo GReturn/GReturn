@@ -73,6 +73,11 @@ Discord: `Linnn#0365`
   <summary>Lindrew's Recent Activity</summary>
 
 <!--START_SECTION:activity-->
+
+
+
+
+
 <!--END_SECTION:activity-->
 
 </details>
