@@ -60,6 +60,11 @@ Discord: `Linnn#0365`
   [face-opencv]: https://github.com/GReturn/Facial-Detection-via-OpenCV
   
 ---
-  
-  <img align="left" alt="Lin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GReturn&show_icons=true&hide_border=false&theme=slateorange">
-  <img align="left" alt="Lin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GReturn&show_icons=true&hide_border=false&theme=slateorange">
+
+<details>
+  <summary>Lindrew's Github Stats</summary>
+
+  <img align="left" alt="Lin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GReturn&show_icons=true&hide_border=true&theme=slateorange" />
+  <img align="left" alt="Lin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GReturn&show_icons=true&hide_border=true&theme=slateorange" />
+
+</details>
