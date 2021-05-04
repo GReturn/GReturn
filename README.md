@@ -16,6 +16,7 @@ Discord: `Linnn#0365`
   - [ ] Learn more about Android App development and build a personal app (*still thinking about it*).
   - [ ] Learn French because why not.
   - [ ] Contribute to open-source, at least 2 repositories.
+  - [ ] Practice loops and the mathematical side of programming.
 
 ### 🧰 Tools Of The Trade:
   
