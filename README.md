@@ -68,7 +68,7 @@ Discord: `Linnn#0365`
   
   <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 </details>
-
+<!--
 <details>
   <summary>Lindrew's Recent Activity</summary>
 
