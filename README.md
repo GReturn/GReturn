@@ -32,19 +32,19 @@ Discord: `Linnn#0365`
  <br />
  
  ### 🕓 Schedule:
- - 🔴 = TODO, UNDONE, XXX - Adding comments for future Lin to make revisions and whatnot.
+ - 🔴 = Coding/Researching/Programming
  - 🟠 = Exploring Github, Twitter, YouTube, etc. for new knowledge and ideas.
- - 🟡 = Code Review
- - 🟢 = Coding/Researching/Programming
+ - 🟡 = Random goodness
+ - 🟢 = TODO, UNDONE, XXX - Adding comments for future Lin to make revisions and whatnot.
  - 🔵 = Appreciate/Improve Github account
  - 🟣 = Free time
  
 |M|T|W|T| F|S|S|
 |:--: |:--:   |:--: |:--:   |:--: |:--: |:--:  |   
 | 🔴  | 🔴   | 🔴  |🔴    |🔴  |🔴  |  🟣   |
-| 🟠  | 🟠   | 🟢  |🟢    |🔵  |🟡  |      |
-| 🟢  | 🟢   | 🔵  |🔵    |🟡  |     |      |
-|     | 🔵   |      |🟡     |     |    |      |
+| 🟠  | 🟠   | 🟢  |🟢    |🟠  |🟡  |      |
+|     | 🟢   | 🔵  |🔵    |🟢  |     |      |
+|     |      |      |     | 🔵    |    |      |
  
  ### ⚡ Fun Facts:
   - I like cheese!
