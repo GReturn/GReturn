@@ -63,23 +63,8 @@ Discord: `Linnn#0365`
 ---
 <details>
   <summary>Lindrew's Github Stats</summary>
-
-  <img align="left" alt="Lin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GReturn&show_icons=true&hide_border=true&theme=slateorange" />
-  <img align="left" alt="Lin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GReturn&show_icons=true&hide_border=true&theme=slateorange" />
-  <pre>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  </pre>
+ <img align="left" alt="Lin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GReturn&show_icons=true&hide_border=true&theme=slateorange" />
+ <img align="left" alt="Lin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GReturn&show_icons=true&hide_border=true&theme=slateorange" /> 
 </details>
 <!--
 <details>
@@ -87,4 +72,4 @@ Discord: `Linnn#0365`
 
 <!--START_SECTION:activity-->
 
-</details>
+<!-- </details> -->
