@@ -10,13 +10,13 @@ Discord: `Linnn#0365`
 ## Get To Know Me!
 ### 🌱 2021 Goals:
   - [ ] Make a habit on making 5 contribution/week in Github.
-  - [ ] Learn about the Object-Oriented Programming paradigm.
+  - [ ] Be confident about knowledge on the Object-Oriented Programming paradigm.
   - [x] Learn how to talk to cats.
   - [ ] Find a secondary PC to install a Linux distro and learn about how Linux will benefit me long-term.
-  - [ ] Learn more about Android App development and build a personal app (*still thinking about it*).
+  - [ ] Make an Android app.
   - [ ] Learn French because why not.
-  - [ ] Contribute to open-source, at least 2 repositories.
-  - [ ] Practice loops and the mathematical side of programming.
+  - [X] Contribute to open-source, at least 2 repositories.
+  - [ ] Be confident on mathematical and critical analysis.
 
 ### 🧰 Tools Of The Trade:
   
@@ -66,8 +66,20 @@ Discord: `Linnn#0365`
 
   <img align="left" alt="Lin's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GReturn&show_icons=true&hide_border=true&theme=slateorange" />
   <img align="left" alt="Lin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GReturn&show_icons=true&hide_border=true&theme=slateorange" />
+  <pre>
   
-  <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  </pre>
 </details>
 <!--
 <details>
