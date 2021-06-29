@@ -10,7 +10,7 @@ Discord: `Linnn#0365`
 ## Get To Know Me!
 ### 🌱 2021 Goals:
   - [ ] Make a habit on making 5 contribution/week in Github.
-  - [ ] Be confident about knowledge on the Object-Oriented Programming paradigm.
+  - [X] Be confident about knowledge on the Object-Oriented Programming paradigm.
   - [x] Learn how to talk to cats.
   - [ ] Find a secondary PC to install a Linux distro and learn about how Linux will benefit me long-term.
   - [ ] Make an Android app.
@@ -31,20 +31,20 @@ Discord: `Linnn#0365`
   
  <br />
  
- ### 🕓 Schedule:
- - 🔴 = Coding/Researching/Programming
- - 🟠 = Exploring Github, Twitter, YouTube, etc. for new knowledge and ideas.
- - 🟡 = Random goodness
- - 🟢 = TODO, UNDONE, XXX - Adding comments for future Lin to make revisions and whatnot.
- - 🔵 = Appreciate/Improve Github account
- - 🟣 = Free time
+ ### 🕓 General Schedule:
+ - 🔴 = Learning
+ - 🟠 = Gaming (Genshin Impact, GBF, Mobile Legends)
+ - 🟡 = Project #1: N/A
+ - 🟢 = Project #2: N/A
+ - 🔵 = Project #3: N/A
+ - 🟣 = Project #4: N/A
  
 |M|T|W|T| F|S|S|
 |:--: |:--:   |:--: |:--:   |:--: |:--: |:--:  |   
-| 🔴  | 🔴   | 🔴  |🔴    |🔴  |🔴  |  🟣   |
-| 🟠  | 🟠   | 🟢  |🟢    |🟠  |🟡  |      |
-|     | 🟢   | 🔵  |🔵    |🟢  |     |      |
-|     |      |      |     | 🔵    |    |      |
+| 🔴  | 🔴   | 🔴  |🔴    |🟠 |🟠  |🟠     |
+| 🟠  | 🟠   | 🟠 |🟠    | |  |     |
+<!--|     |   |   |    |  |     |      |
+|     |      |      |     |     |    |      |-->
  
  ### ⚡ Fun Facts:
   - I like cheese!
