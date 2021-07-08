@@ -10,12 +10,6 @@ Discord: `Linnn#0365`
 ## Get To Know Me!
 ### 🌱 2021 Goals:
   - [ ] Make a habit on making 5 contribution/week in Github.
-  - [X] Be confident about knowledge on the Object-Oriented Programming paradigm.
-  - [x] Learn how to talk to cats.
-  - [ ] Find a secondary PC to install a Linux distro and learn about how Linux will benefit me long-term. (discontinued)
-  - [X] Make an Android app.
-  - [ ] Learn French because why not. (discontinued)
-  - [X] Contribute to open-source, at least 2 repositories.
   - [ ] Be confident on mathematical and critical analysis.
 
 ### 🧰 Tools Of The Trade:
