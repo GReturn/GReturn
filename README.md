@@ -11,6 +11,7 @@ Discord: `Linnn#0365`
 ### 🌱 2021 Goals:
   - [ ] Make a habit on making 5 contribution/week in Github.
   - [ ] Be confident on mathematical and critical analysis.
+  - [ ] Blazor WASM and Server
 
 ### 🧰 Tools Of The Trade:
   
