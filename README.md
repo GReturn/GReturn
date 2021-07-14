@@ -66,5 +66,7 @@ Discord: `Linnn#0365`
   <summary>Lindrew's Recent Activity</summary>
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#70](https://github.com/Nhalrath/Rena/pull/70) in [Nhalrath/Rena](https://github.com/Nhalrath/Rena)
+<!--END_SECTION:activity-->
 
 <!-- </details> -->
