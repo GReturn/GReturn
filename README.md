@@ -1,4 +1,4 @@
-![Header]( "Header")
+![Header](https://github.com/GReturn/GReturn/blob/main/github_readme-banner.png "Header")
 
 
 # <img width="26px" src="https://github.com/GReturn/GReturn/blob/main/wave.gif" /> Meet G Return // Lin 🦊
