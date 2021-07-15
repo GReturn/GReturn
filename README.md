@@ -49,6 +49,21 @@ Discord: `Linnn#0365`
   - Other than computers, I also like Physics, Chemistry, and Astronomy!
   - I have a love-hate relationship with Mathematics
   - In love with K 💛 She hates me tho... (inserting this; she's not gonna see it anyway.)
+
+### 🔑 Random Skills:
+  - Video editing 🎬
+  - Graphic design 🖼
+  - Voice acting 🎤
+
+
+### 🏆 Notable Achievements:
+(for resume)
+  - Consistent Honor Student since 1st year high school (2016-2021)
+  - CIT-U Junior High School Batch 2020-2021 Supreme Student Government Award
+  - 1st Place 2019 CIT-U Junior High School Intramurals Scrabble Contest
+  - 3rd Place 2018 CIT-U Junior High School Intramurals Scrabble Contest
+  - 3rd Place 2017 CIT-U Junior High School Intramurals Scrabble Contest
+  - 4th Place 2016 CESAFI Computer Inter-school Competition
   
 ---
 
