@@ -31,7 +31,7 @@ Hello, I'm G Return, but you can call me "Lin" or "Lindrew". It's not my real na
 ## Get To Know Me!
  
  ### 🕓 General Schedule:
- 🔴 = Learning <br/>
+ 🔴 = School <br/>
  🟠 = Gaming (Genshin Impact, GBF, Mobile Legends) <br/>
  🟡 = Project #1: Spinner (private) <br/>
  🟢 = Project #2: N/A <br/>
@@ -40,7 +40,7 @@ Hello, I'm G Return, but you can call me "Lin" or "Lindrew". It's not my real na
  
 |M|T|W|T| F|S|S|
 |:--: |:--:   |:--: |:--:   |:--: |:--: |:--:  |   
-| 🔴  | 🔴   | 🔴  |🔴    |  |  |     | |
+| 🔴  | 🔴   | 🔴  |🔴    |🔴  |  |     | 
 | 🟠  | 🟠   | 🟠 |🟠    | 🟠|  🟠|🟠 |
 |  🟡   | 🟡  | 🟡  |  🟡  |  |     |      |
 <!--|     |      |      |     |     |    |      |-->
