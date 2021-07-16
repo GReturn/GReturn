@@ -60,9 +60,9 @@ Discord: `Linnn#0365`
 (for resume)
   - Consistent Honor Student since 1st year high school (2016-2021) - With Honors: 7, With High Honors: 9
   - CIT-U Junior High School Grade 10 Batch 2020-2021 Supreme Student Government Award
-  - 1st Place 2019 CIT-U Junior High School Intramurals Scrabble Contest
-  - 3rd Place 2018 CIT-U Junior High School Intramurals Scrabble Contest
-  - 3rd Place 2017 CIT-U Junior High School Intramurals Scrabble Contest
+  - 1st Place 2019 CIT-U Junior High School Intramurals Scrabble Competition
+  - 3rd Place 2018 CIT-U Junior High School Intramurals Scrabble Competition
+  - 3rd Place 2017 CIT-U Junior High School Intramurals Scrabble Competition
   - 2nd Place 2017 CIT-U Junior High School United Nations Organization Month Essay Writing Contest
   - 4th Place 2017 CESAFI Computer Quiz Bowl Inter-school Competition
   
