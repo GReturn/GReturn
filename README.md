@@ -1,5 +1,6 @@
-![Header](https://github.com/GReturn/GReturn/blob/main/github_readme-banner.png "Header")
 
+![Header](https://github.com/GReturn/GReturn/blob/main/github_readme-banner.png "Header")
+<div align=center>
 
 # 🦊 Meet G Return // Lin <img src="https://github.com/GReturn/GReturn/blob/main/wave.gif" width="28px" />
 I'm part of the species with high intelligence and I have the XY chromosomes in my genetic data. I live in a rocky planet, which the locals may call "Earth" in the galaxy of Milky Way:  the neighboring galaxy of Andromeda, where my home planet could be located. The technological, economical, natural, and evolutionary advancements here on Earth piqued the interests of my ancestors. As their newborn descendants,  we are tasked to research and provide valuable data to those at home.
@@ -28,12 +29,12 @@ Discord: `Linnn#0365`
 ## Get To Know Me!
  
  ### 🕓 General Schedule:
- - 🔴 = Learning
- - 🟠 = Gaming (Genshin Impact, GBF, Mobile Legends)
- - 🟡 = Project #1: N/A
- - 🟢 = Project #2: N/A
- - 🔵 = Project #3: N/A
- - 🟣 = Project #4: N/A
+ 🔴 = Learning <br/>
+ 🟠 = Gaming (Genshin Impact, GBF, Mobile Legends) <br/>
+ 🟡 = Project #1: N/A <br/>
+ 🟢 = Project #2: N/A <br/>
+ 🔵 = Project #3: N/A <br/>
+ 🟣 = Project #4: N/A <br/>
  
 |M|T|W|T| F|S|S|
 |:--: |:--:   |:--: |:--:   |:--: |:--: |:--:  |   
@@ -43,35 +44,36 @@ Discord: `Linnn#0365`
 |     |      |      |     |     |    |      |-->
  
  ### ⚡ Fun Facts:
-  - I like cheese!
-  - I love cats!
-  - Average enjoyer of r/me_irl
-  - Other than computers, I also like Physics, Chemistry, and Astronomy!
-  - I have a love-hate relationship with Mathematics
-  - In love with K 💛 She hates me tho... (inserting this; she's not gonna see it anyway.)
+  I like cheese! <br/>
+  I love cats! <br/>
+  Average enjoyer of r/me_irl <br/>
+  Other than computers, I also like Physics, Chemistry, and Astronomy! <br/>
+  I have a love-hate relationship with Mathematics <br/>
+  In love with K 💛 She hates me tho... (inserting this; she's not gonna see it anyway.) <br/>
 
 ### 🔑 Random Skills:
-  - Video editing 🎬
-  - Graphic design 🖼
-  - Voice acting 🎤
+  Video editing 🎬 <br/>
+  Graphic design 🖼 <br/>
+  Voice acting 🎤 <br/>
 
 
 ### 🏆 Notable Achievements:
-(for resume)
-  - Consistent Honor Student since 1st year high school (2016-2021) - With Honors: 7, With High Honors: 9
-  - CIT-U Junior High School Grade 10 Batch 2020-2021 Supreme Student Government Award
-  - 1st Place 2019 CIT-U Junior High School Intramurals Scrabble Competition
-  - 3rd Place 2018 CIT-U Junior High School Intramurals Scrabble Competition
-  - 3rd Place 2017 CIT-U Junior High School Intramurals Scrabble Competition
-  - 2nd Place 2017 CIT-U Junior High School United Nations Organization Month Essay Writing Contest
-  - 4th Place 2017 CESAFI Computer Quiz Bowl Inter-school Competition
+(for resume) <br/>
+  Consistent Honor Student since 1st year high school (2016-2021) - With Honors: 7, With High Honors: 9 <br/>
+  CIT-U Junior High School Grade 10 Batch 2020-2021 Supreme Student Government Award <br/>
+  1st Place 2019 CIT-U Junior High School Intramurals Scrabble Competition <br/>
+  3rd Place 2018 CIT-U Junior High School Intramurals Scrabble Competition <br/>
+  3rd Place 2017 CIT-U Junior High School Intramurals Scrabble Competition <br/>
+  2nd Place 2017 CIT-U Junior High School United Nations Organization Month Essay Writing Contest <br/>
+  4th Place 2017 CESAFI Computer Quiz Bowl Inter-school Competition <br/>
   
 ---
 
 <details>
   <summary>Lin's Github Stats</summary>
+  <img alt="Lin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GReturn&show_icons=true&hide_border=true&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&bg_color=2C2B29&" />
+ <br/>
+  <img alt="Lin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GReturn&show_icons=true&hide_border=true&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&bg_color=2C2B29&langs_count=5" />
   
-  <img align="left" alt="Lin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GReturn&show_icons=true&hide_border=true&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&bg_color=2C2B29&langs_count=5" />
-  <img align="left" alt="Lin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GReturn&show_icons=true&hide_border=true&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&bg_color=2C2B29&" />
   
 </details>
