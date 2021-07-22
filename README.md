@@ -52,7 +52,7 @@ Hello, I'm G Return, but you can call me "Lin" or "Lindrew". It's not my real na
   Other than computers, I also like Physics, Chemistry, and Astronomy! <br/>
   I have a love-hate relationship with Mathematics <br/>
   In love with K 💛 She hates me tho... (inserting this; she's not gonna see it anyway.) <br/>
-
+<!--
 ### 🔑 Random Skills:
   Video editing 🎬 <br/>
   Graphic design 🖼 <br/>
@@ -68,7 +68,7 @@ Hello, I'm G Return, but you can call me "Lin" or "Lindrew". It's not my real na
   3rd Place 2017 CIT-U Junior High School Intramurals Scrabble Competition <br/>
   2nd Place 2017 CIT-U Junior High School United Nations Organization Month Essay Writing Contest <br/>
   4th Place 2017 CESAFI Computer Quiz Bowl Inter-school Competition <br/>
-  
+  -->
 ### 🌏 Connect:
  Discord: `Linnn#0365`
 <br/>*If I'm offline, I could either be dead or alive.*
