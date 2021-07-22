@@ -8,7 +8,7 @@ I'm part of the species with high intelligence and I have the XY chromosomes in 
 Hello, I'm G Return, but you can call me "Lin" or "Lindrew". It's not my real name though, so you don't have to bother finding me in Facebook. I like cheese. I've started programming not too long ago. I like cheese. I am still new to this working environment and I wish to balance my programming hobby and school, but I'm still having a hard time sorting it out. I like cheese. I like cheese. I like cheese.
  
  # "It works on my machine."
-<img src="https://github.com/GReturn/GReturn/blob/main/Untitled.svg" width="500px" />
+<img src="https://github.com/GReturn/GReturn/blob/main/Untitled1.svg" width="500px" />
 
 
 
