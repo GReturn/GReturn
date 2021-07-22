@@ -9,7 +9,7 @@ Hello, I'm G Return, but you can call me "Lin" or "Lindrew". It's not my real na
  
  # "It works on my machine."
 
-![Shrug](https://github.com/GReturn/GReturn/blob/main/shrug-github_readme.png "Shrug")
+![Kaomoji](https://github.com/GReturn/GReturn/blob/main/joy001.png "Kaomoji: Joy")
 
 
 ### 🧰 Technologies & Tools Of The Trade:
