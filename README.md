@@ -34,7 +34,7 @@ Hello, I'm G Return, but you can call me "Lin" or "Lindrew". It's not my real na
  🔴 = School <br/>
  🟠 = Gaming (Genshin Impact, GBF, Mobile Legends) <br/>
  🟡 = Project #1: Spinner (private; in active development) <br/>
- 🟢 = Project #2: N/A <br/>
+ 🟢 = Project #2: Checkmark (private; in active development) <br/>
  🔵 = Project #3: N/A <br/>
  🟣 = Project #4: N/A <br/>
  
