@@ -22,10 +22,12 @@ Hello, I'm G Return, but you can call me "Lin" or "Lindrew". It's not my real na
 ![](https://img.shields.io/badge/Tool-Figma-FF9900?style=for-the-badge&logo=Figma&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Language-HTML-FF9900?style=for-the-badge&logo=HTML&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Language-CSS-FF9900?style=for-the-badge&logo=CSS&logoColor=FFFFFF)
+![](https://img.shields.io/badge/Language-TypeScript-FF9900?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF)
 
 ![](https://img.shields.io/badge/Language-CSharp-FF9900?style=for-the-badge&logo=C-Sharp&logoColor=FFFFFF)
-![](https://img.shields.io/badge/Language-Kotlin-FF9900?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Language-Python-FF9900?style=for-the-badge&logo=Python&logoColor=FFFFFF)
+![](https://img.shields.io/badge/Language-Kotlin-FF9900?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF)
+![](https://img.shields.io/badge/Language-Rust-FF9900?style=for-the-badge&logo=Rust&logoColor=FFFFFF)
 
 ---
 ## Get To Know Me!
