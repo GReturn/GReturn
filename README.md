@@ -51,7 +51,7 @@ Hello, I'm G Return, but you can call me "Lin" or "Lindrew". It's not my real na
   Average enjoyer of r/me_irl <br/>
   Other than computers, I also like Physics, Chemistry, and Astronomy! <br/>
   I have a love-hate relationship with Mathematics <br/>
-  In love with K 💛 She hates me tho... (inserting this; she's not gonna see it anyway.) <br/>
+  Planned on learning TypeScript and Rust <br/>
 <!--
 ### 🔑 Random Skills:
   Video editing 🎬 <br/>
