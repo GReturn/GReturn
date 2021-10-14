@@ -34,9 +34,9 @@ Hello, I'm G Return, but you can call me "Lin" or "Lindrew". It's not my real na
  
  ### 🕓 General Schedule:
  🔴 = School <br/>
- 🟠 = Gaming (Genshin Impact, GBF, Mobile Legends) <br/>
- 🟡 = Project #1: Spinner (private; under development) <br/>
- 🟢 = Project #2: Checkmark (private; under development) <br/>
+ 🟠 = Gaming (Pokemon Unite) <br/>
+ 🟡 = Project #1: Spinner (private; under development -- HIATUS) <br/>
+ 🟢 = Project #2: Checkmark (private; under development -- HIATUS) <br/>
  🔵 = Project #3: N/A <br/>
  🟣 = Project #4: N/A <br/>
  
@@ -44,8 +44,8 @@ Hello, I'm G Return, but you can call me "Lin" or "Lindrew". It's not my real na
 |:--: |:--:   |:--: |:--:   |:--: |:--: |:--:  |   
 | 🔴  | 🔴   | 🔴  |🔴    |🔴  |🔴  |     | 
 | 🟠  | 🟠   | 🟠 |🟠    | 🟠|  🟠|🟠 |
-|     | 🟡  |   |🟡    |  |     |      |
-|  🟢   |      | 🟢    |   |🟢     |    |      |
+|     |   |   |    |  |     |      |
+|     |      |     |   |     |    |      |
  
  ### ⚡ Fun Facts:
   I like cheese! <br/>
