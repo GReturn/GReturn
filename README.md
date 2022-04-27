@@ -16,10 +16,11 @@ Hello, I'm G Return, but you can call me "Lin" or "Lindrew". It's not my real na
 ![](https://img.shields.io/badge/OS-Windows-FF9900?style=for-the-badge&logo=Windows&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/IDE-Visual_Studio-FF9900?style=for-the-badge&logo=Visual-Studio&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/IDE-Android_Studio-FF9900?style=for-the-badge&logo=Android-Studio&logoColor=FFFFFF)
+ 
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-FF9900?style=for-the-badge&logo=Visual-Studio-Code&logoColor=FFFFFF)
-
 ![](https://img.shields.io/badge/Tool-Arduino-FF9900?style=for-the-badge&logo=Arduino&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Tool-Figma-FF9900?style=for-the-badge&logo=Figma&logoColor=FFFFFF)
+ 
 ![](https://img.shields.io/badge/Language-HTML-FF9900?style=for-the-badge&logo=HTML&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Language-CSS-FF9900?style=for-the-badge&logo=CSS&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Language-TypeScript-FF9900?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF)
