@@ -34,5 +34,5 @@ Hello, I'm G Return, but you can call me "Lin" or "Lindrew". It's not my real na
 <!-- ![](https://komarev.com/ghpvc/?username=greturn&style=flat-square&color=FF9900) -->
 
 <!-- <img alt="Lin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GReturn&show_icons=true&hide_border=true&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&bg_color=2C2B29&langs_count=2" />  -->
- <img alt="Lin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GReturn&show_icons=true&hide_border=true&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&bg_color=2C2B29&" />
+ <img alt="Lin's Github Stats" src="https://github-readme-stats-greturn.vercel.app/api?username=GReturn&show_icons=true&hide_border=true&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&bg_color=2C2B29&" />
 
