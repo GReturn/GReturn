@@ -12,29 +12,15 @@ Hello, I'm G Return, but you can call me "Lin" or "Lindrew". It's not my real na
 
 
 
-### 🧰 Technologies & Tools Of The Trade:
-![](https://img.shields.io/badge/OS-Windows-FF9900?style=for-the-badge&logo=Windows&logoColor=FFFFFF)
-![](https://img.shields.io/badge/IDE-Visual_Studio-FF9900?style=for-the-badge&logo=Visual-Studio&logoColor=FFFFFF)
-![](https://img.shields.io/badge/IDE-Android_Studio-FF9900?style=for-the-badge&logo=Android-Studio&logoColor=FFFFFF)
- 
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-FF9900?style=for-the-badge&logo=Visual-Studio-Code&logoColor=FFFFFF)
-![](https://img.shields.io/badge/Tool-Arduino-FF9900?style=for-the-badge&logo=Arduino&logoColor=FFFFFF)
-![](https://img.shields.io/badge/Tool-Figma-FF9900?style=for-the-badge&logo=Figma&logoColor=FFFFFF)
- 
-![](https://img.shields.io/badge/Language-HTML-FF9900?style=for-the-badge&logo=HTML&logoColor=FFFFFF)
-![](https://img.shields.io/badge/Language-CSS-FF9900?style=for-the-badge&logo=CSS&logoColor=FFFFFF)
-![](https://img.shields.io/badge/Language-TypeScript-FF9900?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF)
-![](https://img.shields.io/badge/Language-MS_Excel-FF9900?style=for-the-badge&logo=Excel&logoColor=FFFFFF)
-
+### 🧰 Main Languages:
 ![](https://img.shields.io/badge/Language-CSharp-FF9900?style=for-the-badge&logo=C-Sharp&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Language-Python-FF9900?style=for-the-badge&logo=Python&logoColor=FFFFFF)
-![](https://img.shields.io/badge/Language-Kotlin-FF9900?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF)
-![](https://img.shields.io/badge/Language-Rust-FF9900?style=for-the-badge&logo=Rust&logoColor=FFFFFF)
  
 <!-- ![](https://komarev.com/ghpvc/?username=greturn&style=flat-square&color=FF9900) -->
 
 <!--
 <img alt="Lin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GReturn&show_icons=true&hide_border=true&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&bg_color=2C2B29&langs_count=2" />
 -->
- <img alt="Lin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GReturn&show_icons=true&hide_border=true&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&bg_color=2C2B29&" />
+
+<img alt="Lin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GReturn&show_icons=true&hide_border=true&title_color=FF9900&text_color=FFFFFF&icon_color=FF9900&bg_color=2C2B29&" />
 
