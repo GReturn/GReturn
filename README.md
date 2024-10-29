@@ -8,10 +8,12 @@
 
 
 
-### 🧰 Main Languages:
+### 🧰 Languages:
 ![](https://img.shields.io/badge/Language-Csharp-FF9900?style=for-the-badge&logo=dotnet&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Language-Python-FF9900?style=for-the-badge&logo=Python&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Language-C-FF9900?style=for-the-badge&logo=C&logoColor=FFFFFF)
+![](https://img.shields.io/badge/Language-C++-FF9900?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)
+![](https://img.shields.io/badge/Language-Java-FF9900?style=for-the-badge&logo=Java&logoColor=FFFFFF)
  
 <!-- ![](https://komarev.com/ghpvc/?username=greturn&style=flat-square&color=FF9900) -->
 
