@@ -7,7 +7,7 @@
 <img src="https://github.com/GReturn/GReturn/blob/main/Untitled1.svg" width="500px" />
 
 
-### 🧰 Languages:
+### 🧰 Languages & Technologies:
 ![C](https://img.shields.io/badge/C-2C2B29?style=for-the-badge&logo=c&logoColor=FF9900)
 ![C#](https://img.shields.io/badge/C%23-2C2B29?style=for-the-badge&logo=c-sharp&logoColor=FF9900)
 ![Java](https://img.shields.io/badge/Java-2C2B29?style=for-the-badge&logo=java&logoColor=FF9900)
