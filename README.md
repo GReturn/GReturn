@@ -1,5 +1,5 @@
 
-![Header](https://github.com/GReturn/GReturn/blob/main/github_readme-banner.png "Header")
+![Header](https://github.com/GReturn/GReturn/blob/main/github_readme-banner2026.png "Header")
 
 <div align=center>
 
